@@ -95,27 +95,22 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 ## Output
-![Screenshot (401)](https://github.com/Anusharonselva/Image_Acqusition-_using_Web_Camera/assets/119405600/2061b8f9-19d1-4e38-8a4e-e38a65e17cc8)
 
 ### i) Write the frame as JPG image
-</br>
-</br>
 
+![WhatsApp Image 2024-02-28 at 7 21 45 AM](https://github.com/Anusharonselva/Image_Acqusition-_using_Web_Camera/assets/119405600/058d9ca6-dd6b-4c83-9a47-713665e1184f)
 
 ### ii) Display the video
-</br>
-</br>
-
+![WhatsApp Image 2024-02-28 at 7 21 45 AM](https://github.com/Anusharonselva/Image_Acqusition-_using_Web_Camera/assets/119405600/b6ddd27e-b787-4b75-9390-c2a1f0e5f6d1)
 
 ### iii) Display the video by resizing the window
-</br>
-</br>
 
+
+![WhatsApp Image 2024-02-28 at 7 21 57 AM](https://github.com/Anusharonselva/Image_Acqusition-_using_Web_Camera/assets/119405600/e2da73c5-4f22-4e87-888f-afa974ac768d)
 
 
 ### iv) Rotate and display the video
-</br>
-</br>
+![WhatsApp Image 2024-02-28 at 7 21 51 AM](https://github.com/Anusharonselva/Image_Acqusition-_using_Web_Camera/assets/119405600/f174616a-036b-443c-8431-e6807c741212)
 
 
 
